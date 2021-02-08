@@ -5,9 +5,9 @@ Running list of resources for technical writers and developer relations folks. B
 
 Proofreading & Writing Analysis
 ---
+- [Grammarly](https://app.grammarly.com/)
 - [Hemingway App](http://www.hemingwayapp.com/)
 - [WordCounter](https://wordcounter.net/)
-- [Grammarly](https://app.grammarly.com/)
 
 Notetaking and Book Keeping
 ---
@@ -20,10 +20,11 @@ Emails and Outbound
 
 Social Media
 ---
+- [Hootsuite](https://www.hootsuite.com/plans/free)
+- [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
+- [Plann](https://www.plannthat.com)
 - [TweetDeck](https://tweetdeck.twitter.com/)
 - [Twitter Analytics](https://analytics.twitter.com/)
-- [Plann](https://www.plannthat.com)
-- [Hootsuite](https://www.hootsuite.com/plans/free)
 
 Places to Write
 ---
@@ -35,14 +36,14 @@ Places to Write
 Other Resources
 ---
 - [DevRel Collective](https://devrelcollective.fun/)
-- [List of Free Programming Resources ](https://ebookfoundation.github.io/free-programming-books/)
 - [HackMD](https://hackmd.io)
+- [List of Free Programming Resources ](https://ebookfoundation.github.io/free-programming-books/)
 
 Share
 ---
-- [Twitter](http://twitter.com/share?text=Developer+Relations+Writing+Resources+by+@tiffanyjachja&url=https://github.com/tiffanyjachja/writing-resources)
 - [Facebook](http://www.facebook.com/sharer.php?u=https://github.com/tiffanyjachja/writing-resources&p[title]=Developer+Relations+Writing+Resources)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/tiffanyjachja/writing-resources&title=[Developer+Relations+Writing+Resources+by+@tiffanyjachja)
+- [Twitter](http://twitter.com/share?text=Developer+Relations+Writing+Resources+by+@tiffanyjachja&url=https://github.com/tiffanyjachja/writing-resources)
 
 
 
