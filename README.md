@@ -25,8 +25,16 @@ Social Media
 - [Plann](https://www.plannthat.com)
 - [Hootsuite](https://www.hootsuite.com/plans/free)
 
+Places to Write
+---
+- [dev.to](https://dev.to/)
+- [Medium](https://medium.com/)
+- [PaperCall](https://www.papercall.io/)
+
+
 Other Resources
 ---
+- [DevRel Collective](https://devrelcollective.fun/)
 - [List of Free Programming Resources ](https://ebookfoundation.github.io/free-programming-books/)
 - [HackMD](https://hackmd.io)
 
