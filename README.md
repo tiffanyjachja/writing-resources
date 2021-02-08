@@ -30,5 +30,11 @@ Other Resources
 - [List of Free Programming Resources ](https://ebookfoundation.github.io/free-programming-books/)
 - [HackMD](https://hackmd.io)
 
+Share
+---
+- [Twitter](http://twitter.com/share?text=Developer+Relations+Writing+Resources+by+@tiffanyjachja&url=https://github.com/tiffanyjachja/writing-resources)
+- [Facebook](http://www.facebook.com/sharer.php?u=https://github.com/tiffanyjachja/writing-resources&p[title]=Developer+Relations+Writing+Resources)
+- [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/tiffanyjachja/writing-resources&title=[Developer+Relations+Writing+Resources+by+@tiffanyjachja)
+
 
 
