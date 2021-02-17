@@ -2,6 +2,12 @@
 
 Running list of resources for technical writers and developer relations folks. By Tiffany Jachja. 
 
+:computer: Learning About Technical Writing
+---
+- [Google's Technical Writing Course](https://developers.google.com/tech-writing/one)
+- [GitLab's Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html#usage-list)
+
+
 :pen: Proofreading & Writing Analysis
 ---
 - [Grammarly](https://app.grammarly.com/)
@@ -42,7 +48,7 @@ Writing Emails
 
 Writing & Learning Code
 - [HackMD](https://hackmd.io)
-- [List of Free Programming Resources ](https://ebookfoundation.github.io/free-programming-books/)
+- [List of Free Programming Resources](https://ebookfoundation.github.io/free-programming-books/)
 
 Print Services 
 - [Moo](https://www.moo.com/us/)
