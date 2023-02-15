@@ -1,0 +1,51 @@
+Pillar,Score: Description
+Value,5: We’re proud of what we deliver and our stakeholders are happy.
+,4: We’re proud of what we deliver. There’s a lack of clarity on whether stakeholders are happy.
+,"3: We’re neutral about what we deliver. There are sometimes issues found by stakeholders."
+,2: We deliver software that often causes more problems than it solves. Our stakeholders have flagged a few issues.
+,1: We deliver software that often causes more problems than it solves. Our stakeholders don’t have trust in our ability to deliver.
+Ease to Release,"5: Making changes is simple, safe and painless. Deployment processes are efficient and effective."
+,4: Making changes is painless and straightforward but deployment processes could be more automated and effective.
+,3: We run into change and deployment automation issues quite often when releasing and making changes.
+,"2: Making a release is risky and a manual process. Making changes is simple, but not straightforward. It often results in failures. And the process is manual."
+,1: Making a release is risky and manual process. We don’t have the ability to make changes and changes often result in failures.
+Learning,"5: I learn new skills, findings, and perspectives on a regular basis."
+,"4: I can find time to learn new skills, findings, and perspectives often."
+,"3: There are many opportunities to learn new skills and perspectives, but it is difficult to find enough time to learn during the work week."
+,"2: There a few opportunities to learn new skills and perspectives, but I don’t have time to learn anything during the work week."
+,1: I never have time to learn anything and don’t see a path for growth.
+Code Base Health,"5: We’re proud of the quality of the software we own and use. It is easy to understand, support, and maintain."
+,"4: There are minor improvements needed to make the software we own and use easy to understand, support and maintain."
+,"3: Our software is hard to support and maintain. We know what needs to improve, it will take time and effort."
+,"2: Our software is hard to understand, support, or maintain. We will need major improvements."
+,"1: Our software is hard to understand, maintain, AND support. Ragingly horrible!!"
+Fun,5: I have fun working together as a team. And I look forward to all or most of our team activities during the week.
+,4: I have fun working together as team. The work week is enjoyable most of the time.
+,3: The work week is stale and we don’t have a lot of team activities that make coming into work enjoyable.
+,2: Looking forward to the work week is hard. There are only a few team activities in my week that lift up my mood.
+,1: Coming into work is a dread. It’s hard to focus on and work on what I need to do for the team.
+Mission,5: I know why we exist as a team and I’m excited about the future!
+,"4: I know why we exist as a team, but we can aim definitely aim higher."
+,"3: I somewhat understand why we exist as a team, but I find myself somewhat neural about what we’re working towards."
+,2: Our mission is unclear and I have no idea what we’re working towards.
+,1: Our mission is unclear and NOT inspiring. I have no idea why we are here. NOT a vibe.
+Pawns or Players,5: I have an influence in what we build and how to build it. I contribute to almost all relevant team decisions that affect me. I have control over my destiny.
+,4: I have influence on what we build and how to build it and am sometimes invited to share my feedback.
+,3: I sometimes have a say in what we build and how to build it. I am not often invited to to share my feedback and thoughts on relevant team decisions that affect me. 
+,"2: I don’t have a say in what we build and how we build it, I’m rarely invited to share my thoughts and feedback on decisions that affect me."
+,"1: We are just paws in a game of chess, with no influence over what we build or how we build it."
+Support,5: I get the support and help I need when I ask for it.
+,"4: I get the support and help I need with some delays. Sometimes this causes delays, blockers and issues."
+,"3: I sometimes get the support and help I ask for, often my requests aren’t heard or processed timely and this causes issues and stress."
+,"2: I do not get the support and help I ask for fairly often. This creates blockers, issues, and stress."
+,1: I never not get the support and help I ask for and this creates blockers and other issues.
+Speed,"5: We get our work delivered quickly, with little waiting and no delays."
+,4: We get work completed on a timely basis. There are very few instances of delays or blockers.
+,3: Work items get completed on a timely basis most of the time. There are blockers on work items sometimes.
+,2: We often get interrupted midway through the sprint. Works gets stuck and we hardly get work items done.
+,1: We never seem to get done with any work items. Things are always changing midway through the sprint and we’re often waiting for work to get unstuck.
+Process,5: How we work fits us perfectly and supports our ability to get work done with quality and confidence.
+,4: How we work works for our ability to get work done most of the time.
+,3: How we work does not support or distract from our ability to get work done.
+,2: Our way of working could use some improvements in order make the work week more enjoyable and productive.
+,1: Our way of working is ill-suited for our team and takes the productivity and motivation out of getting our work done.
